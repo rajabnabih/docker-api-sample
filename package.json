@@ -1,0 +1,22 @@
+{
+  "name": "docker-api-sample",
+  "version": "1.0.0",
+  "description": "This is Sample Docker Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajabnabih/docker-api-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajabnabih/docker-api-sample/issues"
+  },
+  "homepage": "https://github.com/rajabnabih/docker-api-sample#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
